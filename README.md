@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello..
 
-<!--
-**aishikar/aishikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science grad student at Arizona State University, currently focusing on software development, machine learning and big data systems. 🎓
 
-Here are some ideas to get you started:
+I’m passionate about building intelligent systems that not only learn from data and make smart predictions, but also scale efficiently and integrate well into real-world applications. 🌍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the stack — from designing algorithms and models to developing robust pipelines, APIs, and tools that bring those models to life. 🛠️
+
+The projects I work on often involve solving problems with real-world impact, combining data-driven insights with solid engineering. I also like exploring areas like system design, graph analytics, and optimization when the challenge is right. 🚀
+
+Outside of code, I’m into astronomy, photography, and occasionally pretending I’m building the next version of J.A.R.V.I.S. 🛰️✨🤣
+
+Thanks for stopping by!
