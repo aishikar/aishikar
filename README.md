@@ -1,4 +1,4 @@
-## Hello..
+## Hi there..
 
 I'm a Computer Science grad student at Arizona State University, currently focusing on software development, machine learning and big data systems. 🎓
 
