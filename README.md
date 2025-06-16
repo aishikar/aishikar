@@ -1,6 +1,6 @@
 ## Hi there 👩🏻‍💻
 
-I'm a Computer Science grad student at Arizona State University, currently focusing on software development, machine learning and big data systems. 🎓
+I'm a recent Computer Science graduate from Arizona State University, with a focus on software development, machine learning, and big data systems. 🎓
 
 I’m passionate about building intelligent systems that not only learn from data and make smart predictions, but also scale efficiently and integrate well into real-world applications. 🌍
 
